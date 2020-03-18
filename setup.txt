@@ -1,0 +1,26 @@
+setup:
+
+install dvorak keyboard layout
+install firefox for developers, chrome, and maybe some few more browsers
+vlc
+blender 2.8
+visual studio code
+sublime text
+gimp
+terminal with f12
+inkscape
+postman, curl
+audacity
+android studio
+npm, node, react native environment
+pencil for mockups
+kolour paint
+mysql workbench
+transmission for torrents
+pdf reader, libre office things
+qt entreprise
+unity
+environment for spring development
+in the tamplates, put there the bootstraps for some files you want to create fast: c program, new project, blender project. also in folders to make access easier
+python and all these machine learning libraries
+guake, geany editor
